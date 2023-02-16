@@ -653,7 +653,7 @@ class AccountSettingsPage extends React.Component {
             )}
         </div>
 
-        <div className="account-section pt-3 mb-5" id="profile-information" ref={this.navLinkRefs['#profile-information']}>
+        <div className="account-section pt-3 mb-5" style={{backgroundColor: '#0088CC'}} id="profile-information" ref={this.navLinkRefs['#profile-information']}>
           <h2 className="section-heading h4 mb-3">
             {this.props.intl.formatMessage(messages['account.settings.section.profile.information'])}
           </h2>

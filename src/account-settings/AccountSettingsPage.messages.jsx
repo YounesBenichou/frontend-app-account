@@ -43,7 +43,7 @@ const messages = defineMessages({
   },
   'account.settings.section.profile.information': {
     id: 'account.settings.section.profile.information',
-    defaultMessage: 'Profile Information',
+    defaultMessage: 'Profile Information --- YOUNES TEST',
     description: 'The profile information section heading.',
   },
   'account.settings.section.demographics.information': {
@@ -419,7 +419,7 @@ const messages = defineMessages({
 
   'account.settings.field.gender': {
     id: 'account.settings.field.gender',
-    defaultMessage: 'Gender',
+    defaultMessage: 'Genderrrrrr',
     description: 'Label for account settings gender field.',
   },
   'account.settings.field.gender.empty': {
